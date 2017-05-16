@@ -1,0 +1,2 @@
+# schawumm für REDAXO
+Linksammlung
